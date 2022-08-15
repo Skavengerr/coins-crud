@@ -1,0 +1,6 @@
+.bin
+.vscode
+
+app.env
+
+*.db
